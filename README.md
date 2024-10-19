@@ -1,10 +1,9 @@
-# Login-and-Registration-Form
-### Simple Login and registration form using HTML, CSS  and PHP 
+# Formulaire de connexion et d'inscription
+### Formulaire de connexion et d'inscription simple utilisant HTML, CSS et PHP 
 
-This repo provides a simple login and registration form pages and the connection of frontend with backend. <br/>
-This module is often required in several projects of web development. <br/>
+Ce référentiel fournit des pages de formulaire de connexion et d'inscription simples et la connexion du frontend au backend. <br/>
+Ce module est souvent requis dans plusieurs projets de développement Web. <br/>
 
-1. Download this repo and store in Xampp folder
-1. Load the sql file in phpmyadmin with DB details given in Dbname.sql
-1. Open the folder in localhost
-
+1. Téléchargez ce référentiel et stockez-le dans le dossier Xampp
+1. Chargez le fichier SQL dans phpmyadmin avec les détails de la base de données donnés dans Dbname.sql
+1. Ouvrez le dossier dans localhost
